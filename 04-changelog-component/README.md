@@ -34,13 +34,4 @@ The main goal of this project is to:
 
 - ✅ HTML
 - ✅ CSS (Flexbox and basic positioning)
-
----
-
-## Folder Structure
-
-04-changelog-component/
-├── index.html
-├── styles.css
-└── script.js
-└── changelog-preview.png
+- ✅ JS
