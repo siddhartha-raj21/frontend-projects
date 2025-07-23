@@ -32,4 +32,4 @@ To view the website:
 
 1. Clone this repository:
    ```bash
-    https://github.com/siddhartha-raj21/basic-html-website
+    https://github.com/siddhartha-raj21/02-basic-html-website
