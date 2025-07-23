@@ -42,6 +42,8 @@ The website layout is optimized for:
 - Tablets  
 
 ---
+**Idea by** : https://roadmap.sh/projects/portfolio-website
+---
 
 ## Live Demo
 
