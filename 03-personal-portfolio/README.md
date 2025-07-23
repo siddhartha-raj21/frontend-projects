@@ -1,8 +1,5 @@
 # Responsive Website Styling Project
-
-# Personal Portfolio
-
-![Personal Portfolio](./Screenshot (220).png)
+![Screenshot](./Screenshot%20(220).png)
 
 
 ## Project Overview
